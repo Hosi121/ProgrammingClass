@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c25ef4aa-72db-4b19-b2d0-a47d9f931805" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../chapter-03/src/main/java/org/lwjglb/engine/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-03/src/main/java/org/lwjglb/engine/Utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-03/src/main/java/org/lwjglb/game/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-03/src/main/java/org/lwjglb/game/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/models/bob/boblamp.md5anim" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/models/bob/boblamp.md5anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/models/bob/boblamp.md5mesh" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/models/bob/boblamp.md5mesh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/models/bob/guard1_body.png" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/models/bob/guard1_body.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/models/bob/guard1_body_h.png" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/models/bob/guard1_body_h.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/models/bob/guard1_body_s.png" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/models/bob/guard1_body_s.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/models/bob/guard1_face.png" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/models/bob/guard1_face.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/models/bob/guard1_face_local.png" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/models/bob/guard1_face_local.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/models/bob/guard1_face_s.png" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/models/bob/guard1_face_s.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/models/bob/guard1_helmet.png" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/models/bob/guard1_helmet.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/models/bob/guard1_helmet_h.png" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/models/bob/guard1_helmet_h.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/models/bob/guard1_helmet_s.png" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/models/bob/guard1_helmet_s.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/models/bob/iron_grill.png" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/models/bob/iron_grill.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/models/bob/round_grill.png" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/models/bob/round_grill.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/models/bob/round_grill_h.png" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/models/bob/round_grill_h.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/models/default/default_texture.png" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/models/default/default_texture.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/models/skybox/skybox.mtl" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/models/skybox/skybox.mtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/models/skybox/skybox.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/models/skybox/skybox.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/models/terrain/terrain.mtl" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/models/terrain/terrain.mtl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/models/terrain/terrain.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/models/terrain/terrain.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/shaders/gui.frag" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/shaders/gui.frag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/shaders/gui.vert" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/shaders/gui.vert" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/shaders/scene.frag" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/shaders/scene.frag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/shaders/scene.vert" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/shaders/scene.vert" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/shaders/skybox.frag" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/shaders/skybox.frag" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/shaders/skybox.vert" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/shaders/skybox.vert" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/sounds/creak1.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/sounds/creak1.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/sounds/creak1.ogg.License.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/sounds/creak1.ogg.License.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/sounds/woo_scary.License.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/sounds/woo_scary.License.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/resources/sounds/woo_scary.ogg" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/resources/sounds/woo_scary.ogg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/engine/graph/GuiRender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/engine/graph/GuiRender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/engine/graph/SceneRender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/engine/graph/SceneRender.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/engine/graph/SkyBoxRender.java" beforeDir="false" afterPath="$PROJECT_DIR$/../chapter-16/src/main/java/org/lwjglb/engine/graph/SkyBoxRender.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ayNuGCHfFTHEG7DoImtNSN3iTC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/takuy/Downloads/lwjglbook/chapter-21&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-f644763e9732-27d99999" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c25ef4aa-72db-4b19-b2d0-a47d9f931805" name="Changes" comment="" />
+      <created>1705287079241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705287079241</updated>
+      <workItem from="1705287080341" duration="1348000" />
+      <workItem from="1705374663293" duration="2094000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
